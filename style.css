@@ -1,0 +1,48 @@
+body{
+    background-color:#002B5B ;
+}
+
+header{
+    background-color: #256D85;
+}
+
+footer{
+    background-color: #8FE3CF;
+}
+
+h5{
+    font-size: 20pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#scroll {
+    width:1450px;
+    height:450px;
+    margin:0px auto;
+    background:#2B4865;
+    overflow-y:hidden
+    
+    }
+    #scroll ul {
+    float:left;
+    margin-right:-999em;
+    white-space:nowrap;
+    list-style:none;
+    }
+    #scroll li {
+    margin:15px;
+    text-align:center;
+    float:left;
+    display:inline;           
+    }
+    #scroll img {
+    border:0;
+    display:block;
+    margin:0px auto;
+    }
+    
+    #scroll span {
+    padding:100px 0 0;
+    display:block;
+    
+    }
