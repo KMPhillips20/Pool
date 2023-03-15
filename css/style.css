@@ -83,7 +83,7 @@ h5{
 }
 
 ::-webkit-scrollbar {
-    -webkit-appearance:inherit;
+    -webkit-appearance:none;
 }
 
 ::-webkit-scrollbar:vertical {
