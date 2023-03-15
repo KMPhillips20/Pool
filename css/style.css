@@ -26,41 +26,8 @@ h5{
 
 
 
-#scroll {
-    width:1450px;
-    height:450px;
-    margin:0px auto;
-    background:#2B4865;
-    overflow-y:hidden;
-    }
-
-    #scroll ul {
-    float:left;
-    margin-right:-999em;
-    white-space:nowrap;
-    list-style:none;
-    }
-    #scroll li {
-    margin:15px;
-    text-align:center;
-    float:left;
-    display:inline;           
-    }
-    #scroll img {
-    border:0;
-    display:block;
-    margin:0px auto;
-    }
-    
-    #scroll span {
-    padding:100px 0 0;
-    display:block;
-    }
-
 
     
-
-    /* @import url('https://fonts.googleapis.com/css?family=Muli:400,700&display=swap'); */
  body {
 	 margin: 0;
 	 height: calc(100vh - 8em);
