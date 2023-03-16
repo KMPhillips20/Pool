@@ -24,19 +24,24 @@ h1{
     margin: 4em;
 }
 
+
 h5{
     color: black;
     font-size: 20pt;
     font-family: 'Times New Roman', Times, serif;
 }
 
+
 p1{
     font-style:italic;
     font-size: 12pt;
 }
 
-
-
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20pt;
+    color:black;
+}
 
 
 
