@@ -3,6 +3,7 @@ body {
     height: calc(100vh - 8em);
     font-family: 'Muli', sans-serif;
    background-color: #09355c;
+
 }
 
 header{
@@ -39,7 +40,7 @@ p1{
 
 ol{
     font-family: 'Times New Roman', Times, serif;
-    font-size: 12pt;
+    font-size: 15pt;
     color:black;
 }
 
@@ -56,7 +57,7 @@ ol{
 	 display: flex;
 	 align-items: center;
 	 width: fit-content;
-	 animation: carouselAnim 60s infinite alternate linear;
+	 animation: carouselAnim 60s linear infinite alternate ;
 }
  
  @keyframes carouselAnim {
