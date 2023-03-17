@@ -52,6 +52,7 @@ ol{
 	 width: 100%;
 	 overflow:hidden;
 	 position: relative;
+    
 }
  .container .items {
 	 display: flex;
@@ -90,7 +91,7 @@ ol{
 .scroll {
     display: block;
     width: 100%;
-    height: 160px;
+    height: 275px;
     overflow-y: scroll;
     padding:3px;
 }
