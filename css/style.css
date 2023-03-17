@@ -50,7 +50,7 @@ ol{
 
  .container {
 	 width: 100%;
-	 overflow: hidden;
+	 overflow:hidden;
 	 position: relative;
 }
  .container .items {
@@ -68,7 +68,7 @@ ol{
 		 transform: translate(calc(-100% + (5*300px)));
 	}
 }
- @media only screen and (max-width: 768px) {
+ @media only screen and (max-width: 768\\px) {
 	 .container .items {
 		 animation: carouselAnim 30s infinite alternate linear;
 	}
