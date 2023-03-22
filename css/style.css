@@ -25,6 +25,16 @@ h1{
     margin: 4em;
 }
 
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
 
 h5{
     color: black;
